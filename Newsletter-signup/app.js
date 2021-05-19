@@ -68,10 +68,6 @@ app.listen(process.env.PORT||3000,function(){
 })
 
 
-// API KEY
-// cc7e3e4a34620e12f7d3d45e99ec6ad5-us2
 
-//listid
-// 81499c1538
 
 
